@@ -218,3 +218,30 @@ h3{
     bottom: 49%;
     opacity: 1;
 }
+
+/*-------------- staff ----------------*/
+
+.staff{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.staff-col{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.staff-col img{
+    width: 100%;
+    border-radius: 10px;
+}
+.staff-col p{
+    padding: 0;
+}
+.staff-col h3{
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: left;
+}
